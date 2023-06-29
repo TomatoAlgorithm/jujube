@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class p10828 {
-
     public static void conductCommand(String command, List<Integer> stack) {
         String[] com = command.split(" ");
 
